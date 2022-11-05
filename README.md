@@ -4,8 +4,7 @@
 - 📫 How to reach me: 
 facebook link: https://www.facebook.com/rexhasib.rexhasib/
 Linkedin: www.linkedin.com/in/hasib-ahmad-309557107
-email 1: rexhasib@gmail.com
-email 2: f17040108@njupt.edu.cn
+email: hasibahmad.njupt@gmail.com
 
 
 <!---
